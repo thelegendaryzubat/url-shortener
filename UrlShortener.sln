@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortener.Api", "Shortener.Api\Shortener.Api.csproj", "{FD271392-5C20-4BB8-82DB-D53625DFA278}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AF8DC932-E6BE-4585-AA45-C94FB34E376B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD271392-5C20-4BB8-82DB-D53625DFA278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD271392-5C20-4BB8-82DB-D53625DFA278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD271392-5C20-4BB8-82DB-D53625DFA278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD271392-5C20-4BB8-82DB-D53625DFA278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD271392-5C20-4BB8-82DB-D53625DFA278} = {AF8DC932-E6BE-4585-AA45-C94FB34E376B}
+	EndGlobalSection
+EndGlobal
