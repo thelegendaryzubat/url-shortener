@@ -1,6 +1,6 @@
 ﻿namespace Shortener.Api.DAL.Data.Entities;
 
-public class ShortedUrl
+public class ShortedUrl :BaseEntity<Guid>
 {
     public Uri ShortUrl { get; set; }
     public Uri FullUrl { get; set; }
